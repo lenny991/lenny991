@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lenny991
 - 👀 I’m interested in programming games
-- 🌱 I’m currently learning unity, not interested in anytinh
+- 🌱 I’m currently learning unity, not interested in anyting new right now
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me idk message me but its probably very unlikely that anyone does
 
