@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Lennyi
-- 👀 I’m interested in programming games, making pixel art, and messing around
-- 🌱 I’m currently using Unity, and i wanna get into Godot but im too lazy.
-- 💞️ I’m looking to collaborate on literally anything, just contact me if ya want.
-- 📫 You can contact me on Discord: Lennyi#3831
+Hey, I'm Lennyi. I make games in Unity, with a 2D pixel art style. Drop me a message on Discord: my account's name is "lennyi".
